@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/jeva-hero.svg" width="100%" alt="Jeva — Your library. Beautifully yours.">
+  <img src="assets/jeva-hero.2ce70b2168ef.svg" width="100%" alt="Jeva — Jellyfin, Plex, Emby / Windows">
 </p>
 
 <p align="center">
@@ -18,37 +18,27 @@
 
 </details>
 
-## Your collection. A place to enjoy it.
-
-The movies and shows on your Jellyfin server, together in Jeva for Windows. Browse your library, find something you love, and settle in.
+Jeva is a Windows client for Jellyfin, Plex and Emby.
 
 <p>
-  <img src="assets/screenshots/home.png" width="100%" alt="Jeva — Your collection. A place to enjoy it.">
+  <img src="assets/screenshots/home-crime-101.ac6684badb2a.png" width="100%" alt="Jeva — Crime 101 home screen">
 </p>
 
-### A closer look at every title
+### Title details
 
 Explore the story, artwork, and cast, then pick up where you left off.
 
-<p>
-  <img src="assets/screenshots/details.png" width="100%" alt="Jeva — A closer look at every title">
-</p>
-
-### Make it yours
+### Appearance
 
 Choose a theme and arrange your home sections to suit you. Jeva is available in 15 languages, with age ratings adapted to your region.
 
-<p>
-  <img src="assets/screenshots/appearance.png" width="100%" alt="Jeva — Make it yours">
-</p>
-
 ## Start watching
 
-You’ll need **Windows x64** and a **Jellyfin server** to connect to.
+You’ll need **Windows x64** and a **Jellyfin, Plex or Emby server** to connect to.
 
 1. Download the installer from the [latest release](https://github.com/tearerry/Jeva/releases/latest).
 2. Install and open Jeva.
-3. Connect to your Jellyfin server and sign in.
+3. Connect to your server and sign in.
 
 <details>
 <summary>Developer Mode</summary>
@@ -61,4 +51,4 @@ To refresh metadata or edit media information, open **Settings → About** and c
 
 Something not working, or an idea to share? [Let us know](https://github.com/tearerry/Jeva/issues).
 
-<sub>Jeva is an independent project. It is not affiliated with or endorsed by Jellyfin.</sub>
+<sub>Jeva is an independent project. It is not affiliated with or endorsed by Jellyfin, Plex or Emby.</sub>
