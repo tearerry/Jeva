@@ -4,7 +4,7 @@
 
 <h3 align="center">The movies and shows on your media server, beautifully.</h3>
 
-<p align="center">Jeva is a refined Windows app for Jellyfin, Plex and Emby — fast, cinematic, and made to feel like a streaming service of your own.</p>
+<p align="center">Jeva is a refined Windows app for Jellyfin, Plex and Emby. lightweight, fast, cinematic, and made to feel like a streaming service of your own.</p>
 
 <p align="center">
   <a href="https://github.com/tearerry/Jeva/releases/latest"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/download-en-dark.680f27717b86.png"><img src="assets/buttons/download-en-light.1820a293b6b5.png" height="48" alt="Download for Windows"></picture></a>&nbsp;&nbsp;
