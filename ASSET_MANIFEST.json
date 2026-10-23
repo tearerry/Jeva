@@ -1,0 +1,90 @@
+{
+  "naming": "SHA-256 content fingerprint (first 12 hex digits); change the filename whenever the content changes.",
+  "hero": {
+    "path": "assets/jeva-hero.a8426ca3cd61.webp",
+    "includes": {
+      "screenshot": "assets/screenshots/home-crime-101.ac6684badb2a.png",
+      "source": "https://i.redd.it/oycgcl57aywh1.png",
+      "post": "https://www.reddit.com/r/jellyfin/comments/1xc9ie6/hows_my_jellyfin_looking/"
+    }
+  },
+  "features": {
+    "details": {
+      "path": "assets/features/details.497236e1ca27.webp",
+      "from": "assets/screenshots/details.png"
+    },
+    "rows": {
+      "path": "assets/features/rows.c5cfd4d60c22.webp",
+      "from": "assets/screenshots/home.png (Recently Added row, first poster removed)"
+    },
+    "appearance": {
+      "path": "assets/features/appearance.3bc147b10bf6.webp",
+      "from": "assets/screenshots/appearance.png"
+    }
+  },
+  "buttons": {
+    "pattern": "assets/buttons/{download|notes}-{lang}-{dark|light}.<hash>.png",
+    "files": [
+      "assets/buttons/download-ar-dark.d890b3e6cf1f.png",
+      "assets/buttons/download-ar-light.53ab5191bab5.png",
+      "assets/buttons/download-de-dark.ecdd45306b3b.png",
+      "assets/buttons/download-de-light.c3e14e807042.png",
+      "assets/buttons/download-en-dark.680f27717b86.png",
+      "assets/buttons/download-en-light.1820a293b6b5.png",
+      "assets/buttons/download-es-dark.861300e1ef63.png",
+      "assets/buttons/download-es-light.dfffd15c4b28.png",
+      "assets/buttons/download-fr-dark.750ec68b5f26.png",
+      "assets/buttons/download-fr-light.ff679bdb810f.png",
+      "assets/buttons/download-id-dark.ab78006d69dd.png",
+      "assets/buttons/download-id-light.fef399b2c83d.png",
+      "assets/buttons/download-it-dark.822baaf0ea9e.png",
+      "assets/buttons/download-it-light.f1ff416a987c.png",
+      "assets/buttons/download-ja-dark.90a709523500.png",
+      "assets/buttons/download-ja-light.1065106386ef.png",
+      "assets/buttons/download-ko-dark.e149d8ddc80f.png",
+      "assets/buttons/download-ko-light.075343a03c35.png",
+      "assets/buttons/download-nl-dark.75c7391f2269.png",
+      "assets/buttons/download-nl-light.01686390c64e.png",
+      "assets/buttons/download-pt-BR-dark.2ba212f4fc1c.png",
+      "assets/buttons/download-pt-BR-light.e1d57834f7e4.png",
+      "assets/buttons/download-ru-dark.560bae428125.png",
+      "assets/buttons/download-ru-light.e559e9a84b8a.png",
+      "assets/buttons/download-tr-dark.d495fc1b43b1.png",
+      "assets/buttons/download-tr-light.efb7c3767fbd.png",
+      "assets/buttons/download-zh-CN-dark.70c03bb0d330.png",
+      "assets/buttons/download-zh-CN-light.345f325a9e68.png",
+      "assets/buttons/download-zh-TW-dark.326a36f2f0db.png",
+      "assets/buttons/download-zh-TW-light.202cccc43436.png",
+      "assets/buttons/notes-ar-dark.0fe818423636.png",
+      "assets/buttons/notes-ar-light.397e1ace8f23.png",
+      "assets/buttons/notes-de-dark.282a4245d498.png",
+      "assets/buttons/notes-de-light.540bf684657b.png",
+      "assets/buttons/notes-en-dark.91edea06df87.png",
+      "assets/buttons/notes-en-light.4c2cc1d80827.png",
+      "assets/buttons/notes-es-dark.5ef51f7bca59.png",
+      "assets/buttons/notes-es-light.cf94b2582de6.png",
+      "assets/buttons/notes-fr-dark.fc20a7ac5726.png",
+      "assets/buttons/notes-fr-light.07316ad6c94c.png",
+      "assets/buttons/notes-id-dark.0148f5257b5e.png",
+      "assets/buttons/notes-id-light.656271bdd78b.png",
+      "assets/buttons/notes-it-dark.00af0641dc20.png",
+      "assets/buttons/notes-it-light.2bec54007fd5.png",
+      "assets/buttons/notes-ja-dark.cfae22be5289.png",
+      "assets/buttons/notes-ja-light.21ef5783d0b0.png",
+      "assets/buttons/notes-ko-dark.daeee1e3d85f.png",
+      "assets/buttons/notes-ko-light.ad134d877796.png",
+      "assets/buttons/notes-nl-dark.c1daeb824f65.png",
+      "assets/buttons/notes-nl-light.b956db9bca4b.png",
+      "assets/buttons/notes-pt-BR-dark.5a8b73da4b64.png",
+      "assets/buttons/notes-pt-BR-light.93093e095cf7.png",
+      "assets/buttons/notes-ru-dark.e0f0c318509e.png",
+      "assets/buttons/notes-ru-light.ba3dfbbf2d5b.png",
+      "assets/buttons/notes-tr-dark.9b94ed723375.png",
+      "assets/buttons/notes-tr-light.0a84760ca107.png",
+      "assets/buttons/notes-zh-CN-dark.99e0db319785.png",
+      "assets/buttons/notes-zh-CN-light.2b3b8f54a7a6.png",
+      "assets/buttons/notes-zh-TW-dark.5ac07da1cd84.png",
+      "assets/buttons/notes-zh-TW-light.77661212b410.png"
+    ]
+  }
+}
