@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 480" width="1320" height="480" role="img" aria-label="Jeva — Your library. Beautifully yours. A Windows client for Jellyfin.">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e0f13"/>
+      <stop offset="0.56" stop-color="#13141b"/>
+      <stop offset="1" stop-color="#06070a"/>
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#6475d7" stop-opacity="0.38"/>
+      <stop offset="0.62" stop-color="#343a79" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#343a79" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="warmGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#b68ab7" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#b68ab7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="poster1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#51578b"/>
+      <stop offset="0.42" stop-color="#222846"/>
+      <stop offset="1" stop-color="#0d0e1a"/>
+    </linearGradient>
+    <linearGradient id="poster2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c1a8a2"/>
+      <stop offset="0.42" stop-color="#7f6a80"/>
+      <stop offset="1" stop-color="#29283c"/>
+    </linearGradient>
+    <linearGradient id="poster3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#62798b"/>
+      <stop offset="0.5" stop-color="#2e4157"/>
+      <stop offset="1" stop-color="#151d32"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.015"/>
+    </linearGradient>
+    <clipPath id="rounded"><rect x="0" y="0" width="1320" height="480" rx="28"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1320" height="480" fill="url(#background)"/>
+    <ellipse cx="1070" cy="210" rx="430" ry="450" fill="url(#blueGlow)"/>
+    <ellipse cx="904" cy="462" rx="450" ry="250" fill="url(#warmGlow)"/>
+    <path d="M805 0V480" stroke="#ffffff" stroke-opacity="0.075"/>
+
+    <!-- Typographic, product-first composition. The existing icon.svg remains the app logo. -->
+    <text x="82" y="100" fill="#a6a8b5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="5">JELLYFIN, REIMAGINED FOR WINDOWS</text>
+    <text x="75" y="229" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="126" font-weight="700" letter-spacing="-8">Jeva</text>
+    <text x="82" y="288" fill="#f0f0f4" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="34" font-weight="500" letter-spacing="-0.9">Your library. Beautifully yours.</text>
+    <text x="83" y="332" fill="#a1a3b0" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="21">A cinematic home for your personal media.</text>
+
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="1.1">
+      <rect x="82" y="372" width="122" height="39" rx="19.5" fill="#ffffff" fill-opacity="0.115" stroke="#ffffff" stroke-opacity="0.15"/>
+      <text x="143" y="397" text-anchor="middle" fill="#f2f2f5">WINDOWS</text>
+      <rect x="216" y="372" width="122" height="39" rx="19.5" fill="#ffffff" fill-opacity="0.075" stroke="#ffffff" stroke-opacity="0.12"/>
+      <text x="277" y="397" text-anchor="middle" fill="#e4e5eb">JELLYFIN</text>
+      <rect x="350" y="372" width="176" height="39" rx="19.5" fill="#ffffff" fill-opacity="0.075" stroke="#ffffff" stroke-opacity="0.12"/>
+      <text x="438" y="397" text-anchor="middle" fill="#e4e5eb">15 LANGUAGES</text>
+    </g>
+
+    <!-- Abstract cinematic art: decorative, not a representation of app screens. -->
+    <g transform="translate(838 47)">
+      <rect x="38" y="58" width="190" height="291" rx="18" fill="#131720" stroke="#ffffff" stroke-opacity="0.08" transform="rotate(-13 133 203)"/>
+      <rect x="64" y="47" width="170" height="270" rx="13" fill="url(#poster3)" transform="rotate(-13 149 182)"/>
+      <circle cx="159" cy="160" r="82" fill="#97b5c4" fill-opacity="0.10"/>
+      <path d="M31 305L130 139L254 315Z" fill="#101c2d" fill-opacity="0.58"/>
+
+      <rect x="241" y="32" width="205" height="303" rx="19" fill="#0e1018" stroke="#ffffff" stroke-opacity="0.15" transform="rotate(12 343 183)"/>
+      <rect x="261" y="50" width="174" height="266" rx="14" fill="url(#poster2)" transform="rotate(12 348 183)"/>
+      <circle cx="376" cy="144" r="88" fill="#e7bec7" fill-opacity="0.18"/>
+      <path d="M247 295L318 180L463 330Z" fill="#30233b" fill-opacity="0.52"/>
+
+      <rect x="148" y="24" width="216" height="337" rx="21" fill="#090c14" stroke="#ffffff" stroke-opacity="0.20"/>
+      <rect x="158" y="34" width="196" height="317" rx="15" fill="url(#poster1)"/>
+      <circle cx="258" cy="158" r="92" fill="#a8a4e8" fill-opacity="0.16"/>
+      <path d="M158 296C206 207 223 239 265 195C297 161 330 240 354 207V351H158Z" fill="#080c1a" fill-opacity="0.66"/>
+      <path d="M184 290L231 244L267 271L323 209" stroke="#d5d8f5" stroke-opacity="0.14" stroke-width="2" fill="none"/>
+      <rect x="178" y="308" width="102" height="5" rx="2.5" fill="#ffffff" fill-opacity="0.40"/>
+      <rect x="178" y="321" width="63" height="4" rx="2" fill="#ffffff" fill-opacity="0.22"/>
+      <rect x="148" y="24" width="216" height="337" rx="21" fill="url(#glass)"/>
+    </g>
+    <rect x="0.8" y="0.8" width="1318.4" height="478.4" rx="27.2" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1.6" fill="none"/>
+  </g>
+</svg>
