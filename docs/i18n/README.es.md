@@ -1,43 +1,64 @@
-<p align="center"><a href="../../README.md">English</a> · <strong>Español</strong> · <a href="README.fr.md">Français</a> · <a href="README.pt-BR.md">Português (BR)</a></p>
+<p align="center">
+  <img src="../../assets/jeva-hero.svg" width="100%" alt="Jeva — Your library. Beautifully yours.">
+</p>
 
-<p align="center"><img src="../../icon.svg" width="76" alt="Icono de Jeva"></p>
-<p align="center"><img src="../../assets/jeva-hero.svg" width="100%" alt="Jeva — Cliente de Jellyfin para Windows"></p>
+<p align="center">
+  <a href="https://github.com/tearerry/Jeva/releases/latest"><strong>Descargar para Windows</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/tearerry/Jeva/releases">Novedades</a>
+</p>
 
-<p align="center"><a href="https://github.com/tearerry/Jeva/releases"><strong>Descargar para Windows ↗</strong></a> · <a href="https://github.com/tearerry/Jeva/issues">Informar de un problema ↗</a></p>
+<details>
+<summary>Idioma · Español</summary>
 
-# Tu biblioteca, más bonita que nunca.
+<p>
+  <a href="../../README.md">English</a> · <a href="README.ko.md">한국어</a> · <a href="README.ja.md">日本語</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <strong>Español</strong> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a><br>
+  <a href="README.pt-BR.md">Português (BR)</a> · <a href="README.it.md">Italiano</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.ru.md">Русский</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.ar.md">العربية</a>
+</p>
 
-**Jeva** es un cliente independiente de Jellyfin para Windows. Disfruta de las películas y series de tu propio servidor con una interfaz moderna inspirada en las plataformas de streaming.
+</details>
 
-<p align="center"><img src="../../assets/screenshots/home.png" width="100%" alt="Pantalla de inicio de Jeva"></p>
+## Tu colección. Tu momento.
 
-## Funciones principales
+Disfruta de las películas y series de tu servidor Jellyfin con Jeva para Windows. Recorre tu biblioteca, encuentra algo que te apetezca y ponte a gusto.
 
-- **Inicio a tu gusto:** Elige qué bibliotecas aparecen y personaliza las secciones y su orden.
-- **Experiencia cinematográfica:** Explora películas y series con imágenes y fichas detalladas.
-- **Diseño personalizable:** Cambia temas, diseños destacados y estilos de visualización.
-- **Navegación sencilla:** Busca, filtra, ordena y explora cada biblioteca por separado.
-- **Más contenido:** Compatible con vídeos musicales y extras locales.
-- **15 idiomas:** Interfaz multilingüe y clasificaciones por edades adaptadas a cada región.
+<p>
+  <img src="../../assets/screenshots/home.png" width="100%" alt="Jeva — Tu colección. Tu momento.">
+</p>
 
-<p align="center"><img src="../../assets/screenshots/details.png" width="49%" alt="Detalles del contenido"> <img src="../../assets/screenshots/appearance.png" width="49%" alt="Ajustes de apariencia"></p>
+### Cada título, un poco más cerca
 
-## Primeros pasos
+Descubre la historia, las imágenes y el reparto en un mismo lugar. Si ya habías empezado a ver algo, sigue justo donde lo dejaste.
 
-1. Descarga el instalador más reciente desde [Releases](https://github.com/tearerry/Jeva/releases).
-2. Instala y abre Jeva en Windows.
-3. Conéctate a tu servidor Jellyfin.
+<p>
+  <img src="../../assets/screenshots/details.png" width="100%" alt="Jeva — Cada título, un poco más cerca">
+</p>
 
-**Plataforma:** Windows x64
+### A tu manera
 
-## Modo de desarrollador
+Elige un tema y organiza las secciones de inicio como prefieras. Jeva está disponible en 15 idiomas y muestra las clasificaciones por edad de tu región.
 
-Jeva incluye un modo de desarrollador oculto para actualizar los metadatos y editar la información de los contenidos.
+<p>
+  <img src="../../assets/screenshots/appearance.png" width="100%" alt="Jeva — A tu manera">
+</p>
 
-Para activarlo, ve a **Configuración → Acerca de (About)** y **haz clic varias veces en el icono de Jeva**.
+## Empieza a ver
 
-## Comentarios
+Necesitas **Windows x64** y un **servidor Jellyfin** al que conectarte.
 
-¿Encontraste un error o tienes una sugerencia? Escríbenos en [GitHub Issues](https://github.com/tearerry/Jeva/issues).
+1. Descarga el instalador de la [última versión](https://github.com/tearerry/Jeva/releases/latest).
+2. Instala y abre Jeva.
+3. Conecta tu servidor Jellyfin e inicia sesión.
 
-<sub>**Aviso:** Jeva es un proyecto independiente, sin afiliación ni respaldo oficial del proyecto Jellyfin.</sub>
+<details>
+<summary>Modo de desarrollador</summary>
+
+Para actualizar los metadatos o editar la información de tus contenidos, ve a **Ajustes → Acerca de (About)** y haz clic **siete veces seguidas en el icono de Jeva**. Así se activa el modo de desarrollador.
+
+</details>
+
+---
+
+¿Algo no funciona o tienes una idea? [Cuéntanos](https://github.com/tearerry/Jeva/issues).
+
+<sub>Jeva es un proyecto independiente, sin afiliación ni respaldo oficial de Jellyfin.</sub>

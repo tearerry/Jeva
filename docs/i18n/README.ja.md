@@ -1,43 +1,64 @@
-<p align="center"><a href="../../README.md">English</a> · <a href="README.ko.md">한국어</a> · <strong>日本語</strong> · <a href="README.zh-CN.md">简体中文</a></p>
+<p align="center">
+  <img src="../../assets/jeva-hero.svg" width="100%" alt="Jeva — Your library. Beautifully yours.">
+</p>
 
-<p align="center"><img src="../../icon.svg" width="76" alt="Jeva アイコン"></p>
-<p align="center"><img src="../../assets/jeva-hero.svg" width="100%" alt="Jeva — Jellyfin 向け Windows クライアント"></p>
+<p align="center">
+  <a href="https://github.com/tearerry/Jeva/releases/latest"><strong>Windows版をダウンロード</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/tearerry/Jeva/releases">リリースノート</a>
+</p>
 
-<p align="center"><a href="https://github.com/tearerry/Jeva/releases"><strong>Windows 版をダウンロード ↗</strong></a> · <a href="https://github.com/tearerry/Jeva/issues">問題を報告 ↗</a></p>
+<details>
+<summary>言語 · 日本語</summary>
 
-# 自分だけのメディアライブラリを、もっと美しく。
+<p>
+  <a href="../../README.md">English</a> · <a href="README.ko.md">한국어</a> · <strong>日本語</strong> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a><br>
+  <a href="README.pt-BR.md">Português (BR)</a> · <a href="README.it.md">Italiano</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.ru.md">Русский</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.ar.md">العربية</a>
+</p>
 
-**Jeva** は Jellyfin 向けの独立した Windows クライアントです。自分のサーバーに保存した映画やテレビ番組を、動画配信サービスのような洗練された画面で楽しめます。
+</details>
 
-<p align="center"><img src="../../assets/screenshots/home.png" width="100%" alt="Jeva のホーム画面"></p>
+## 好きな作品を、心地よく。
 
-## 主な機能
+Jellyfinサーバーに集めた映画やドラマを、WindowsのJevaで。ライブラリを眺めながら、今観たい一本を見つけて楽しめます。
 
-- **自分好みのホーム画面：** 表示するライブラリを選び、セクションの表示や並び順を調整できます。
-- **配信サービス風のデザイン：** 作品のアートワークや詳細情報を見ながら、映画やテレビ番組を探せます。
-- **豊富なカスタマイズ：** テーマ、注目作品のレイアウト、カードの表示形式を変更できます。
-- **快適なライブラリ操作：** ライブラリ別の閲覧、検索、絞り込み、並べ替えに対応しています。
-- **さまざまな映像に対応：** ミュージックビデオやローカルの特典映像を閲覧できます。
-- **15 言語に対応：** 多言語表示と地域に応じた年齢レーティングをサポートします。
+<p>
+  <img src="../../assets/screenshots/home.png" width="100%" alt="Jeva — 好きな作品を、心地よく。">
+</p>
 
-<p align="center"><img src="../../assets/screenshots/details.png" width="49%" alt="作品の詳細画面"> <img src="../../assets/screenshots/appearance.png" width="49%" alt="外観設定"></p>
+### 観る前も、作品を楽しむ
 
-## はじめに
+あらすじやアートワーク、キャストをひとつの画面で。観かけの作品は、続きからすぐに再生できます。
 
-1. [Releases](https://github.com/tearerry/Jeva/releases) から最新の Windows インストーラーをダウンロードします。
-2. Jeva をインストールして起動します。
-3. Jellyfin サーバーに接続します。
+<p>
+  <img src="../../assets/screenshots/details.png" width="100%" alt="Jeva — 観る前も、作品を楽しむ">
+</p>
 
-**対応環境：** Windows x64
+### 自分らしい画面に
 
-## 開発者モード
+テーマを選び、ホームのセクションや並び順を好みに合わせて変えられます。15言語に対応し、年齢レーティングも地域に合わせて表示します。
 
-Jeva には、メタデータの更新や作品情報の編集ができる開発者モードがあります。
+<p>
+  <img src="../../assets/screenshots/appearance.png" width="100%" alt="Jeva — 自分らしい画面に">
+</p>
 
-**設定 → About（情報）** を開き、**Jeva のアイコンを数回クリック**すると有効になります。
+## さっそく観てみる
 
-## フィードバック
+**Windows x64**と、接続先の**Jellyfinサーバー**をご用意ください。
 
-不具合や改善案は [GitHub Issues](https://github.com/tearerry/Jeva/issues) までお寄せください。
+1. [最新リリース](https://github.com/tearerry/Jeva/releases/latest)からインストーラーをダウンロードします。
+2. Jevaをインストールして起動します。
+3. Jellyfinサーバーに接続し、ログインします。
 
-<sub>**免責事項：** Jeva は独立したプロジェクトであり、Jellyfin プロジェクトとの提携関係や公式な承認はありません。</sub>
+<details>
+<summary>開発者モード</summary>
+
+メタデータの更新や作品情報の編集を行うには、**設定 → 情報（About）**を開き、**Jevaアイコンを続けて7回クリック**してください。開発者モードが有効になります。
+
+</details>
+
+---
+
+気になる不具合やアイデアがあれば、[こちらでお聞かせください](https://github.com/tearerry/Jeva/issues)。
+
+<sub>Jevaは独立したプロジェクトです。Jellyfinとの提携や、Jellyfinによる公式な承認はありません。</sub>

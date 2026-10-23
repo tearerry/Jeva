@@ -1,43 +1,64 @@
-<p align="center"><a href="../../README.md">English</a> · <a href="README.ko.md">한국어</a> · <a href="README.ja.md">日本語</a> · <strong>简体中文</strong> · <a href="README.zh-TW.md">繁體中文</a></p>
+<p align="center">
+  <img src="../../assets/jeva-hero.svg" width="100%" alt="Jeva — Your library. Beautifully yours.">
+</p>
 
-<p align="center"><img src="../../icon.svg" width="76" alt="Jeva 图标"></p>
-<p align="center"><img src="../../assets/jeva-hero.svg" width="100%" alt="Jeva — 适用于 Jellyfin 的 Windows 客户端"></p>
+<p align="center">
+  <a href="https://github.com/tearerry/Jeva/releases/latest"><strong>下载 Windows 版</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/tearerry/Jeva/releases">更新说明</a>
+</p>
 
-<p align="center"><a href="https://github.com/tearerry/Jeva/releases"><strong>下载 Windows 版本 ↗</strong></a> · <a href="https://github.com/tearerry/Jeva/issues">反馈问题 ↗</a></p>
+<details>
+<summary>语言 · 简体中文</summary>
 
-# 你的媒体库，以更美的方式呈现。
+<p>
+  <a href="../../README.md">English</a> · <a href="README.ko.md">한국어</a> · <a href="README.ja.md">日本語</a> · <strong>简体中文</strong> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a><br>
+  <a href="README.pt-BR.md">Português (BR)</a> · <a href="README.it.md">Italiano</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.ru.md">Русский</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.ar.md">العربية</a>
+</p>
 
-**Jeva** 是一款独立开发的 Jellyfin Windows 客户端，让你像使用流媒体平台一样，轻松浏览和欣赏自己服务器上的电影与剧集。
+</details>
 
-<p align="center"><img src="../../assets/screenshots/home.png" width="100%" alt="Jeva 首页"></p>
+## 喜欢的作品，慢慢看。
 
-## 主要功能
+在 Windows 上，用 Jeva 观看 Jellyfin 服务器里的电影和剧集。逛逛自己的媒体库，挑一部想看的，享受属于你的观影时光。
 
-- **个性化首页：** 自由选择首页显示的媒体库，并调整内容分区的显示与顺序。
-- **流媒体式界面：** 通过精美的海报、背景图和详情页探索电影与剧集。
-- **多种外观设置：** 可切换主题、精选内容布局和卡片显示样式。
-- **轻松查找内容：** 支持按媒体库浏览、搜索、筛选和排序。
-- **更多视频类型：** 支持音乐视频和本地附加内容（Local Extras）。
-- **支持 15 种语言：** 并可根据地区显示对应的年龄分级。
+<p>
+  <img src="../../assets/screenshots/home.png" width="100%" alt="Jeva — 喜欢的作品，慢慢看。">
+</p>
 
-<p align="center"><img src="../../assets/screenshots/details.png" width="49%" alt="影片详情页"> <img src="../../assets/screenshots/appearance.png" width="49%" alt="外观设置"></p>
+### 从了解一部作品开始
 
-## 开始使用
+剧情简介、海报和演员信息，一眼就能找到。还没看完的作品，也能随时接着看。
 
-1. 前往 [Releases](https://github.com/tearerry/Jeva/releases) 下载最新的 Windows 安装程序。
-2. 安装并启动 Jeva。
-3. 连接你的 Jellyfin 服务器即可开始使用。
+<p>
+  <img src="../../assets/screenshots/details.png" width="100%" alt="Jeva — 从了解一部作品开始">
+</p>
 
-**支持平台：** Windows x64
+### 把界面调成喜欢的样子
 
-## 开发者模式
+选择主题，调整首页栏目和排列顺序。Jeva 支持 15 种语言，也会根据地区显示年龄分级。
 
-Jeva 内置隐藏的开发者模式，可用于刷新元数据和编辑媒体信息。
+<p>
+  <img src="../../assets/screenshots/appearance.png" width="100%" alt="Jeva — 把界面调成喜欢的样子">
+</p>
 
-打开 **设置 → 关于（About）**，**连续点击 Jeva 图标数次**即可启用。
+## 开始观看
 
-## 问题与建议
+你需要 **Windows x64**，以及可连接的 **Jellyfin 服务器**。
 
-欢迎通过 [GitHub Issues](https://github.com/tearerry/Jeva/issues) 提交问题或建议。
+1. 前往[最新版本](https://github.com/tearerry/Jeva/releases/latest)下载安装程序。
+2. 安装并打开 Jeva。
+3. 连接 Jellyfin 服务器并登录。
 
-<sub>**声明：** Jeva 是独立项目，与 Jellyfin 项目无隶属或合作关系，也未获得其官方认可。</sub>
+<details>
+<summary>开发者模式</summary>
+
+如果需要刷新元数据或编辑媒体信息，请打开**设置 → 关于（About）**，**连续点击 Jeva 图标 7 次**，即可开启开发者模式。
+
+</details>
+
+---
+
+遇到问题，或有什么想法？[欢迎告诉我们](https://github.com/tearerry/Jeva/issues)。
+
+<sub>Jeva 是独立项目，与 Jellyfin 没有关联，也未获得 Jellyfin 的官方认可。</sub>

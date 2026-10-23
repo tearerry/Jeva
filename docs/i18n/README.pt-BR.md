@@ -1,43 +1,64 @@
-<p align="center"><a href="../../README.md">English</a> · <strong>Português (Brasil)</strong> · <a href="README.es.md">Español</a> · <a href="README.it.md">Italiano</a></p>
+<p align="center">
+  <img src="../../assets/jeva-hero.svg" width="100%" alt="Jeva — Your library. Beautifully yours.">
+</p>
 
-<p align="center"><img src="../../icon.svg" width="76" alt="Ícone do Jeva"></p>
-<p align="center"><img src="../../assets/jeva-hero.svg" width="100%" alt="Jeva — Cliente Jellyfin para Windows"></p>
+<p align="center">
+  <a href="https://github.com/tearerry/Jeva/releases/latest"><strong>Baixar para Windows</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/tearerry/Jeva/releases">Notas da versão</a>
+</p>
 
-<p align="center"><a href="https://github.com/tearerry/Jeva/releases"><strong>Baixar para Windows ↗</strong></a> · <a href="https://github.com/tearerry/Jeva/issues">Relatar um problema ↗</a></p>
+<details>
+<summary>Idioma · Português (BR)</summary>
 
-# Sua biblioteca, ainda mais bonita.
+<p>
+  <a href="../../README.md">English</a> · <a href="README.ko.md">한국어</a> · <a href="README.ja.md">日本語</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.zh-TW.md">繁體中文</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a><br>
+  <strong>Português (BR)</strong> · <a href="README.it.md">Italiano</a> · <a href="README.nl.md">Nederlands</a> · <a href="README.ru.md">Русский</a> · <a href="README.tr.md">Türkçe</a> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.ar.md">العربية</a>
+</p>
 
-**Jeva** é um cliente independente do Jellyfin para Windows. Aproveite os filmes e as séries do seu próprio servidor em uma interface elegante, inspirada nos grandes serviços de streaming.
+</details>
 
-<p align="center"><img src="../../assets/screenshots/home.png" width="100%" alt="Tela inicial do Jeva"></p>
+## Sua coleção. Seu momento.
 
-## Recursos
+Curta os filmes e as séries do seu servidor Jellyfin no Jeva para Windows. Explore sua biblioteca, escolha o que combina com o momento e fique à vontade.
 
-- **Uma página inicial do seu jeito:** Escolha quais bibliotecas aparecem e personalize as seções e sua ordem.
-- **Visual de serviço de streaming:** Explore filmes e séries com imagens e páginas de detalhes.
-- **Personalização de verdade:** Altere temas, layouts de destaque e estilos de exibição.
-- **Navegação prática:** Pesquise, filtre, ordene e navegue por biblioteca.
-- **Mais tipos de vídeo:** Suporte a videoclipes e extras locais.
-- **15 idiomas:** Interface multilíngue com classificações indicativas adaptadas à região.
+<p>
+  <img src="../../assets/screenshots/home.png" width="100%" alt="Jeva — Sua coleção. Seu momento.">
+</p>
 
-<p align="center"><img src="../../assets/screenshots/details.png" width="49%" alt="Detalhes de um título"> <img src="../../assets/screenshots/appearance.png" width="49%" alt="Configurações de aparência"></p>
+### Conheça cada título de perto
 
-## Como começar
+Veja a sinopse, as imagens e o elenco em um só lugar. Se já começou a assistir, é só continuar de onde parou.
 
-1. Baixe o instalador mais recente em [Releases](https://github.com/tearerry/Jeva/releases).
-2. Instale e abra o Jeva no Windows.
-3. Conecte-se ao seu servidor Jellyfin.
+<p>
+  <img src="../../assets/screenshots/details.png" width="100%" alt="Jeva — Conheça cada título de perto">
+</p>
 
-**Plataforma:** Windows x64
+### Do seu jeito
 
-## Modo de desenvolvedor
+Escolha um tema e organize as seções da tela inicial como preferir. O Jeva está disponível em 15 idiomas e mostra a classificação indicativa da sua região.
 
-O Jeva inclui um modo de desenvolvedor oculto para atualizar metadados e editar informações da sua mídia.
+<p>
+  <img src="../../assets/screenshots/appearance.png" width="100%" alt="Jeva — Do seu jeito">
+</p>
 
-Para ativá-lo, acesse **Configurações → Sobre (About)** e **clique várias vezes no ícone do Jeva**.
+## Comece a assistir
 
-## Comentários e sugestões
+Você precisa do **Windows x64** e de um **servidor Jellyfin** para se conectar.
 
-Encontrou um erro ou tem uma ideia? Use o [GitHub Issues](https://github.com/tearerry/Jeva/issues).
+1. Baixe o instalador da [versão mais recente](https://github.com/tearerry/Jeva/releases/latest).
+2. Instale e abra o Jeva.
+3. Conecte seu servidor Jellyfin e entre na sua conta.
 
-<sub>**Aviso:** Jeva é um projeto independente, sem afiliação ou endosso oficial do projeto Jellyfin.</sub>
+<details>
+<summary>Modo de desenvolvedor</summary>
+
+Para atualizar metadados ou editar as informações dos seus conteúdos, abra **Configurações → Sobre (About)** e clique **sete vezes seguidas no ícone do Jeva**. Isso ativa o modo de desenvolvedor.
+
+</details>
+
+---
+
+Encontrou um problema ou teve uma ideia? [Conte pra gente](https://github.com/tearerry/Jeva/issues).
+
+<sub>O Jeva é um projeto independente, sem vínculo ou aprovação oficial do Jellyfin.</sub>
